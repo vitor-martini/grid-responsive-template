@@ -1,1 +1,1 @@
-https://vitor-martini.github.io/grid-template/
+https://vitor-martini.github.io/grid-responsive-template/
